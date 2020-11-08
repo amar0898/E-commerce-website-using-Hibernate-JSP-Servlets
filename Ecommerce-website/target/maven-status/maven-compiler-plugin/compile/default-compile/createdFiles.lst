@@ -1,0 +1,4 @@
+com\mycompany\ecommerce\website\entities\product.class
+com\mycompany\ecommerce\website\entities\User.class
+com\mycompany\ecommerce\website\helper\FactoryProvider.class
+com\mycompany\ecommerce\website\entities\category.class
